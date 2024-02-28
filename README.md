@@ -6,6 +6,6 @@
 
 ### A Container with a letter that is further in the alphabet cannot be placed on top of a container with a label earlier in the alphabet. E.G B cannot be placed on A, but A can be placed on top of B.
 
-### See Tower of Hanoi.
+### See [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi).
 
 ### This program uses stacks to compute where the containers should go. If a container cannot be placed on any of the existing stacks, a new stack is created with that container in it.
